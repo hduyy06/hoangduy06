@@ -2,11 +2,7 @@
 <img align="right" width="64" src="https://i.pinimg.com/1200x/2a/13/d0/2a13d065a3cd300bb622f7925480db20.jpg" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
-<h2 align="center">hdelwyth</h2>
-<bẻ />
-
-> ✍ I'm a software developer at [Utop @ FPT](https://utop.io/).
-
+<h2 align="center">"hdelwyth"</h2>
 <br />
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
